@@ -1,0 +1,51 @@
+{
+  "$schema": "../schemas/project.schema.json",
+  "project_id": "p_kfg1",
+  "author": {
+    "id": "1054998978"
+  },
+  "entry": "main.lua",
+  "version": "1.0.6",
+  "taptap_publish": {
+    "title": "深海潜航",
+    "description": "2D横版潜艇生存模拟游戏，1-4人合作驾驶潜艇穿越木卫二深海，船体破裂、反应堆过热、怪物入侵，任何失误都可能让全船人葬身海底。",
+    "category": "simulation",
+    "screen_orientation": "landscape",
+    "collection_type": "sce",
+    "trial_note": "我做这款游戏，是因为想在手机里复现那种\"所有人一起尖叫\"的体验。\n第一次玩《潜渊症》时，我和三个朋友开着语音。反应堆过热了，工程师在喊\"降温！降温！\"，机修工在另一个舱室修破洞，我作为舰长完全看不到外面的怪物，只能听安全官在麦克风里嘶吼\"左边！左边有东西！\"\n然后船沉了。我们四个人沉默了五秒，然后同时爆笑。\n那种混乱、紧张、最后要么一起死要么一起活的感觉，我想让更多人在手机上体验到。\n《深海潜航》不是一款\"爽游\"。你会死很多次，会因为队友失误而愤怒，会在凌晨三点复盘\"如果当时关上门就好了\"。\n但当你和三个陌生人配合默契，从一场不可能活下来的危机中全身而退时——那种成就感，没有任何游戏能替代。\n欢迎来到欧罗巴。请系好安全带，检查氧气，相信你的队友。\n或者，至少假装相信。",
+    "app_platforms": "1,2",
+    "developer_id": 346789,
+    "app_id": 863664,
+    "miniapp_id": "tapmcjkwwwtbj2jwfv"
+  },
+  "assets": {
+    "icon": "./game_material/ICON_2026-05-28T03-49-15_01.png",
+    "screenshots": [
+      "./game_material/SCREENSHOT_2026-05-28T03-49-15_01.png",
+      "./game_material/SCREENSHOT_2026-05-28T03-49-15_02.png",
+      "./game_material/SCREENSHOT_2026-05-28T03-49-15_03.png"
+    ],
+    "promotional_image": "./game_material/PROMO_2026-05-28T03-49-15_01.jpg",
+    "icon_url": "https://tapcode-sce.spark.xd.com/assets/game_material/深海潜航/ICON_2026-05-28T03-49-15_01.png",
+    "screenshot_urls": [
+      "https://tapcode-sce.spark.xd.com/assets/game_material/深海潜航/SCREENSHOT_2026-05-28T03-49-15_01.png",
+      "https://tapcode-sce.spark.xd.com/assets/game_material/深海潜航/SCREENSHOT_2026-05-28T03-49-15_02.png",
+      "https://tapcode-sce.spark.xd.com/assets/game_material/深海潜航/SCREENSHOT_2026-05-28T03-49-15_03.png"
+    ],
+    "promotional_image_url": "https://tapcode-sce.spark.xd.com/assets/game_material/深海潜航/PROMO_2026-05-28T03-49-15_01.jpg",
+    "cover_horizontal": "./game_material/COVER_HORIZONTAL_2026-05-28T03-50-45_01.png",
+    "cover_horizontal_url": "https://tapcode-sce.spark.xd.com/assets/game_material/深海潜航/COVER_HORIZONTAL_2026-05-28T03-50-45_01.png",
+    "cover_vertical": "./game_material/COVER_VERTICAL_2026-05-28T03-52-33_01.png",
+    "cover_vertical_url": "https://tapcode-sce.spark.xd.com/assets/game_material/深海潜航/COVER_VERTICAL_2026-05-28T03-52-33_01.png"
+  },
+  "entry@client": "main.lua",
+  "entry@server": "main.lua",
+  "test_qrcode": {
+    "url": "https://tapcode-sce.spark.xd.com/qrcode/p_kfg1_1779940577603.png",
+    "generated_at": "2026-05-28T03:56:17.805Z"
+  },
+  "metadata": {
+    "updated_at": "2026-05-28T03:59:37.169Z",
+    "promo_dependent_hash": "f88a5c2bd15d7df8a8ab05698ee2821b"
+  }
+}
